@@ -1,0 +1,19 @@
+{
+  "name": "api-creation-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lofty.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpskonee/api-creation-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpskonee/api-creation-class/issues"
+  },
+  "homepage": "https://github.com/jpskonee/api-creation-class#readme"
+}
