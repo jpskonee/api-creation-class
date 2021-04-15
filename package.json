@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jpskonee/api-creation-class/issues"
   },
-  "homepage": "https://github.com/jpskonee/api-creation-class#readme"
+  "homepage": "https://github.com/jpskonee/api-creation-class#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.12.3"
+  }
 }
