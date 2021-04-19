@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const cors = require("cors")
 const port = process.env.PORT || 3000;
 const LOCAL_DB = "mongodb://localhost/cart"
-const ONLINE_DB = "mongodb+srv://jpskonee:jpskonee@cluster0.rfukp.mongodb.net/moneyDB?retryWrites=true&w=majority"
+const ONLINE_DB = "mongodb+srv://jpskonee:jpskonee@cluster0.rfukp.mongodb.net/wikiDB?retryWrites=true&w=majority"
 
 
 const app = express()

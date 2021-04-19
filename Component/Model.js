@@ -14,4 +14,4 @@ const cartSchema = mongoose.Schema(
         }
     });
 
-module.exports = mongoose.model("monies", cartSchema);
+module.exports = mongoose.model("films", cartSchema);
